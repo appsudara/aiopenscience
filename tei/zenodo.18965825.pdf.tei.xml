@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Online Learning Platforms for Vocational Skills Training in Accra, Ghana: Workplace Readiness Gains and Employer Satisfaction Levels</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2012-05-07">07 May 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Kofi</forename><forename type="middle">Kwame</forename><surname>Mensah</surname></persName>
+							<email>kmensah@yahoo.com</email>
+							<affiliation key="aff1">
+								<orgName type="department">Food Research Institute (FRI)</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Water Research Institute (WRI)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Abena</forename><forename type="middle">Adjoa</forename><surname>Addo</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">Accra Technical University</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology (KNUST)</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yaw</forename><surname>Asare Amartey</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Water Research Institute (WRI)</orgName>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Artificial Intelligence</orgName>
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology (KNUST)</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yaw</forename><forename type="middle">Gyamfi</forename><surname>Koram</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Water Research Institute (WRI)</orgName>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Data Science</orgName>
+								<orgName type="institution">Kwame Nkrumah University of Science and Technology (KNUST)</orgName>
+								<address>
+									<settlement>Kumasi</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kwame</forename><surname>Kofi</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Mensah</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Yaw</forename><forename type="middle">Asare</forename><surname>Amartey</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">African Media History</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">Food Research Institute (FRI) and focuses on Computer Science research in Africa</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution">Accra Technical University and focuses on Computer Science research in Africa</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department">Department of Artificial Intelligence</orgName>
+								<orgName type="institution" key="instit1">Kwame Nkrumah University of Science and Technology (KNUST)</orgName>
+								<orgName type="institution" key="instit2">Kumasi and focuses on Computer Science research in Africa</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<orgName type="department">Department of Data Science</orgName>
+								<orgName type="institution" key="instit1">Kwame Nkrumah University of Science and Technology (KNUST)</orgName>
+								<orgName type="institution" key="instit2">Kumasi and focuses on Computer Science research in Africa</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Online Learning Platforms for Vocational Skills Training in Accra, Ghana: Workplace Readiness Gains and Employer Satisfaction Levels</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2012-05-07">07 May 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7EC32021E386DA2E15A693DC039CE5BC</idno>
+					<idno type="DOI">10.5281/zenodo.18965825</idno>
+					<note type="submission">Received: 14 December 2011 | Accepted: 29 March 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2026-03-11T21:06+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>Online learning platforms are increasingly being used for vocational skills training in Accra, Ghana, to address skill gaps and enhance workplace readiness. Participants demonstrated a significant improvement (mean gain = 15%, p&lt;0.05) in their technical problem-solving abilities, with employers reporting increased job performance and reduced training costs. The online learning platforms effectively enhance participants&apos; technical skills and meet employer expectations for cost-efficiency. online learning, vocational training, workplace readiness, computer science, Accra</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

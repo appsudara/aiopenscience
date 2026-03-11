@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Two Decades of Industry 4.0 And Iot Research: A Bibliometric Analysis of Global Trends, Market Dynamics, And Technological Convergences (2004-2024)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The USA Journals</publisher>
+				<availability status="unknown"><p>Copyright The USA Journals</p>
+				</availability>
+				<date type="published" when="2026-03-07">07 March 2026</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Unais</forename><surname>Ali</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Eastern Michigan University</orgName>
+								<address>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Osama</forename><surname>Salim</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Eastern Michigan University</orgName>
+								<address>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dr</forename><forename type="middle">Muhammad</forename><surname>Ahmed</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Syeda</forename><forename type="middle">Kashaf</forename><surname>Kulsoom</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">NED University of Engineering and Technology</orgName>
+								<address>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Two Decades of Industry 4.0 And Iot Research: A Bibliometric Analysis of Global Trends, Market Dynamics, And Technological Convergences (2004-2024)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">The American Journal of Engineering and Technology</title>
+						<title level="j" type="abbrev">tajet</title>
+						<idno type="eISSN">2689-0984</idno>
+						<imprint>
+							<publisher>The USA Journals</publisher>
+							<biblScope unit="volume">08</biblScope>
+							<biblScope unit="issue">03</biblScope>
+							<biblScope unit="page" from="39" to="69"/>
+							<date type="published" when="2026-03-07">07 March 2026</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D7AE8CED470C6DC8D08524EB02FB6297</idno>
+					<idno type="DOI">10.37547/tajet/volume08issue03-04</idno>
+					<note type="submission">Received: 16 Jan 2026 | Received Revised Version: 30 Jan 2026 | Accepted: 22 Feb 2026 |</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2026-03-11T21:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Internet of Things (IoT)</term>
+					<term>Bibliometric Analysis</term>
+					<term>Research Trends</term>
+					<term>Technological Convergence</term>
+					<term>Market Adoption</term>
+					<term>Cyber-Physical Systems (CPS)</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>In the current work, the researchers examine 20 years (2004-2024) of literature on Industry 4.0 and IoT, visualizing intellectual organisations, knowledge sharing, and changes in themes. Based on data collected from 6,000+ articles scraped from Scopus and processed with VOSviewer, Biblioshiny, and Python, it answers three research questions: the creation of Industry 4.0 and IoT scholarship, market forces and market uptake, and convergences in technologies. Results indicate soaring growth in publications starting in 2016, with significant contributions from China, the US, Germany, India, and the UK. The study identifies a gap in the scholarly literature and in the uptake of IoT, with high implementation evident in the manufacturing and logistics sectors, whereas in the healthcare, agriculture, and building sectors, implementation challenges persist. It includes suggestions for what researchers should consider in the future, including socio-technical integration, cybersecurity, and sustainable digital ecosystems.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">INTEGRATING OBSERVABILITY IN SPRING BOOT MICROSERVICES FOR ENHANCED CLOUD OPERATIONS</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Deepak</forename><surname>Singh</surname></persName>
+							<email>deepaksingh1981@gmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Gaurang</forename><surname>Deshpande</surname></persName>
+							<email>gaurangdeshpande89@gmail.com</email>
+						</author>
+						<title level="a" type="main">INTEGRATING OBSERVABILITY IN SPRING BOOT MICROSERVICES FOR ENHANCED CLOUD OPERATIONS</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2096-3246</idno>
+					</monogr>
+					<idno type="MD5">A3D3D7C46ED114072B88132EACEF5952</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2026-03-11T21:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Gainwell Technologies</term>
+					<term>USA</term>
+					<term>Role: Principal Solution Architect Observability</term>
+					<term>Spring Boot</term>
+					<term>Microservices</term>
+					<term>Cloud Operations</term>
+					<term>Tracing</term>
+					<term>Metrics</term>
+					<term>Logging</term>
+					<term>DevOps</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>This research examines using observability tools logs, traces, and metrics in Spring Boot microservices to support reliability, performance, and monitoring in cloud-native architectures. The research addressed key pain points within Spring Boot frameworks, including having no debugging capability, lack of near real-time insight into deployments, and complexities of multiple distributed services. The frameworks, including Prometheus, Grafana, and OpenTelemetry as well as industry examples presented (Netflix, Airbnb and others). This suggests integrated observability to reduce downtime and support operational awareness and knowledge in cloud-based microservicesfindings aimed to indicate the relevant need for a unified observability process.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

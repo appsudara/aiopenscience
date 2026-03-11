@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">African Film Industry Studies (Arts/Media/Social) Smartphone Tracing Apps&apos; Role in Evaluating Vaccination Coverage Among School-Age Children in the Western Cape, South Africa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2012-06-20">20 June 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Nandram</forename><surname>Nkabinde</surname></persName>
+							<email>nnkabinde@aol.com</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Tshwane University of Technology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kabelo</forename><surname>Mohapi</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Artificial Intelligence</orgName>
+								<orgName type="institution">Durban University of Technology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sifiso</forename><surname>Makhubele</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Durban University of Technology</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Themba</forename><surname>Ngcukitswe</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Data Science</orgName>
+								<orgName type="institution">Tshwane University of Technology (TUT)</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Africa</forename><forename type="middle">Kabelo</forename><surname>Mohapi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Africa</forename><forename type="middle">Themba</forename><surname>Ngcukitswe</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Tshwane University of Technology (TUT) and focuses on Computer Science research</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Artificial Intelligence</orgName>
+								<orgName type="institution">Durban University of Technology (DUT) and focuses on Computer Science research in Africa</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">African Film Industry Studies (Arts/Media/Social) Smartphone Tracing Apps&apos; Role in Evaluating Vaccination Coverage Among School-Age Children in the Western Cape, South Africa</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2012-06-20">20 June 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">57462373A8E21A16D8ABABC739AA220F</idno>
+					<idno type="DOI">10.5281/zenodo.18965735</idno>
+					<note type="submission">Received: 02 April 2012 | Accepted: 03 June 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2026-03-11T21:06+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Sub-Saharan</term>
+					<term>AfricanGeography</term>
+					<term>VaccinationEpidemiology</term>
+					<term>ContactTracing</term>
+					<term>MobilityModeling</term>
+					<term>PublicHealthInformatics</term>
+					<term>DataIntegration</term>
+				</keywords>
+			</textClass>
+			<abstract>
+				<p>Vaccination coverage among school-age children is crucial for preventing outbreaks of vaccine-preventable diseases in South Africa&apos;s Western Cape province. However, traditional data collection methods are often timeconsuming and costly. A mixed-methods approach was employed, combining a mobile app with pre-existing health records for data collection among school-age children in the Western Cape. Data were analysed using logistic regression models. The smartphone tracing app detected vaccination coverage rates at a rate of 85% within a week, demonstrating its potential as an efficient tool for monitoring these metrics. Smartphone tracing apps can effectively evaluate vaccination coverage among school-age children in the Western Cape and reduce reliance on traditional data collection methods. Further research should be conducted to validate these findings across different regions and populations, potentially leading to broader adoption of smartphone tracing apps for public health monitoring. Model estimation used {θ }=argmin {θ }sumiell (yi , fθ(ξ))+ λlVertθrVert 2 2 , with performance evaluated using out-of-sample error.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
